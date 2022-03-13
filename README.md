@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ananzjo
-- 👀 I’m interested in ...
+- 👀 I’m interested in Python , JS , CSS , Postgres DB
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on IoT
 - 📫 How to reach me twitter @ananzjo
